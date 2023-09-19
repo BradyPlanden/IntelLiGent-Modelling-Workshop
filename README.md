@@ -1,5 +1,5 @@
 # IntelLiGent-Modelling-Workshop
-IntelLiGent Modelling Workshop in Oslo March 2023.
+IntelLiGent Modelling Workshop in Oslo March 2023, and Oxford in September 2023.
 Multiple of these notebooks came from the PyBaMM repository, at [PyBaMM Repo](https://github.com/pybamm-team/PyBaMM)
 
 
